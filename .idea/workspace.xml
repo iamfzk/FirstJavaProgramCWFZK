@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c90f3d02-67c9-4c9b-b394-4ac95e0bc693" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstJavaProgramCWFZK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FZK_Ch2_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_04_literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_05_TakingInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_09_ch2_op_pre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_100_java_time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_101_datetimeformatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_102_ps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_103_ex6sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_104_ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_105_javadoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_106_javadoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_107_method_tags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_109_lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_10_resulting_data_type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_110_generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_111_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_113_ex7sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_11_ex_sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_12_ps2_pr_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_13_strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_14_strings_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_15_ps3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_17_logical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_18_elseif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_19_ch4_ps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_21_ch_loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_22_ch4_do_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_24_break_and_continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_25_practice_set_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_27_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_31_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_32_method_overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_34_recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_35_practice_set_on_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_38_custom_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_39_ch8ps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_40_ch9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_41_ex2sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_42_constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_44_ps09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_45_inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_46_constructors_in_inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_47_this_super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_48_method_overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_49_dynamic_method_dispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_50_ex3sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_51_exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_52_ch10ps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_53_abstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_54_interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_57_default_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_58_inheritance_interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_59_polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_60_ch11ps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_61_ex4sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_65_packages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_66_access_modifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_68_ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_71_runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_73_thread_constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_74_thread_priorities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_75_thread_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_76_practice13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_78_errors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_79_errorsdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_80_try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_82_nested_try_catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_83_exception_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_84_throw_throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_85_finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_86_ps14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_87_ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_89_collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_92_linkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_93_arraydeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_95_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_96_date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_97_date_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_99_gregorian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwf_ch1_PS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/cwh_29_Practice_Set_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/naresh.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2QgyauEIQQb15gdXMWIOB6YRDZ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Demo" />
+      <module name="FirstJavaProgramCWFZK" />
+      <option name="PROGRAM_PARAMETERS" value="10 20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwf_04_literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.cwf_04_literals" />
+      <module name="FirstJavaProgramCWFZK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwf_113_ex7sol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.cwf_113_ex7sol" />
+      <module name="FirstJavaProgramCWFZK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwf_23_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.cwf_23_for_loop" />
+      <module name="FirstJavaProgramCWFZK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwf_39_ch8ps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.cwf_39_ch8ps" />
+      <module name="FirstJavaProgramCWFZK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.cwf_39_ch8ps" />
+        <item itemvalue="Application.cwf_113_ex7sol" />
+        <item itemvalue="Application.cwf_23_for_loop" />
+        <item itemvalue="Application.cwf_04_literals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-249ae16d76d6-36550cda" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c90f3d02-67c9-4c9b-b394-4ac95e0bc693" name="Changes" comment="" />
+      <created>1685789585837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685789585837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FirstJavaProgramCWFZK$cwf_04_literals.ic" NAME="cwf_04_literals Coverage Results" MODIFIED="1685789941572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+</project>
